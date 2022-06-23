@@ -1,0 +1,6 @@
+[submodule "product"]
+	path = product
+	url = ./product/
+[submodule "home"]
+	path = home
+	url = ./home/
